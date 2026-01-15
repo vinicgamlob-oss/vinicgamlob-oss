@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/vinicgamlob-oss/assets_front_cape/blob/main/Baner_certo_02.png" width="100%" />
-</p>
+
 
 # Olá, eu sou o Vinícius! 👋
 
