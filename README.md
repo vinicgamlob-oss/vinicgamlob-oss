@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/vinicgamlob-oss/assets_front_cape/blob/main/Baner.png" width="10%" />
+  <img src="https://github.com/vinicgamlob-oss/assets_front_cape/blob/main/Baner.png" width="30%" />
 </p>
 
 # Olá, eu sou o Vinícius! 👋
