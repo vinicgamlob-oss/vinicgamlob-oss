@@ -1,24 +1,26 @@
 # Olá, eu sou o Vinícius! 👋
 
-### Desenvolvedor focado em Python
+### 🎓 Estudante de Engenharia da Computação | Desenvolvedor Python
 
 ---
 
-### 🔍 Sobre mim
-- 🐍 Estudando **Python** para desenvolvimento de soluções.
-- 🚀 Buscando constantemente aprender novas tecnologias e melhorar minhas habilidades.
-- 📊 Interessado em Ciência de Dados e Automação.
+### 🔍 Sobre mies
+- 👨‍🎓 Cursando **Engenharia da Computação** na UNISAL.
+- 🐍 Focado em **Python** para automação, backend e ciência de dados.
+- 🚀 Atualmente aprofundando conhecimentos em estruturas de dados e algoritmos.
 
 ---
 
 ### 🛠 Minha Caixa de Ferramentas
 
-#### Ciência de Dados & Backend
+#### 🐍 Data Science & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### Ferramentas
+---
+
+#### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -27,5 +29,4 @@
 ### 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gama-2a7150380/)
 
-
-
+---
