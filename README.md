@@ -5,14 +5,14 @@
 
 # Olá, eu sou o Vinícius! 👋
 
-### 🎓 Estudante de Engenharia da Computação | Desenvolvedor Python
+### 🎓 Estudante de Engenharia da Computação 
 
 ---
 
 ### 🔍 Sobre mim
 - 👨‍🎓 Cursando **Engenharia da Computação** na UNISAL.
-- 🐍 Focado em **Python** para automação, backend e ciência de dados.
-- 🚀 Atualmente aprofundando conhecimentos em estruturas de dados e algoritmos.
+- 🐍 Focado em  automação, backend e ciência de dados.
+- 🚀 Atualmente aprofundando conhecimentos em estruturas de dados e Programação Orientada a Objetos (POO) com Java.
 
 ---
 
