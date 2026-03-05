@@ -9,7 +9,7 @@
 
 ---
 
-### 🔍 Sobre mies
+### 🔍 Sobre mim
 - 👨‍🎓 Cursando **Engenharia da Computação** na UNISAL.
 - 🐍 Focado em **Python** para automação, backend e ciência de dados.
 - 🚀 Atualmente aprofundando conhecimentos em estruturas de dados e algoritmos.
@@ -20,8 +20,7 @@
 
 #### 🐍 Data Science & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
