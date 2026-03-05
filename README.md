@@ -23,14 +23,24 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
+### 🤖 DISCORD & AUTOMAÇÃO 
+
+ 🔧 FERRAMENTAS DE GESTÃO 
+ 
+ ![Carl-bot](https://img.shields.io/badge/Carl--bot-%232D2D2D.svg?style=for-the-badge&logo=carl-bot&logoColor=white) 
+ ![Loritta](https://img.shields.io/badge/Loritta-%23FF006E.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+---
 
 #### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ---
 
 ### 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gama-2a7150380/)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/850092757687205889)
 ---
