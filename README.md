@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vinicgamlob-oss/Assets/blob/main/Gemini_Generated_Image_4dnee34dnee34dne.png" width="100%" />
+  <img src="https://github.com/vinicgamlob-oss/Assets/blob/main/BG.png" width="100%" />
 </p>
 
 
